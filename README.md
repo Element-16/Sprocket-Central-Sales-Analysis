@@ -6,8 +6,9 @@ Sprocket Central a automobile parts amanufacture company saw a dip in their sale
 
 Dashboard Screenshots
 ![Screenshot 2023-11-29 161417](https://github.com/Element-16/Sprocket-Central-Sales-Analysis/assets/115886873/a45c517f-c5bc-4494-8d4f-60dbb4d08a2f)
-![Screenshot 2023-11-29 161417](https://github.com/Element-16/Sprocket-Central-Sales-Analysis/assets/115886873/7d5a8e52-7587-49e7-bacd-9752228da895)
-![Screenshot 2023-11-29 161417](https://github.com/Element-16/Sprocket-Central-Sales-Analysis/assets/115886873/286398e0-e33d-469b-b9a2-1193755dfa77)
+![Screenshot 2023-11-29 161442](https://github.com/Element-16/Sprocket-Central-Sales-Analysis/assets/115886873/5f02ac40-61ad-439f-b96b-19d24addcd5f)
+![Screenshot 2023-11-29 161512](https://github.com/Element-16/Sprocket-Central-Sales-Analysis/assets/115886873/2977e893-6a2b-4e63-8c42-05dbae5b48e4)
+
 
 
 
